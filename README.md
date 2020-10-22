@@ -1,2 +1,4 @@
 # Autocompletion
-Build an autocompletion mechanism with trie
+DS: trie
+
+under construction; building for fun
