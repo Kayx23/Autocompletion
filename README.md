@@ -1,6 +1,8 @@
-# Autocompletion
-DS: trie
+# Word Checker
+A GUI tool to check if a word is valid. Available in English & French. 
 
-under construction; building for fun
+Underlying data structure: trie
 
-English words: https://github.com/dwyl/english-words
+### Word Source
+English: https://github.com/dwyl/english-words
+French: taken from https://www.freelang.com/download/misc/liste_francais.zip
